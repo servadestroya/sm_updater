@@ -1,0 +1,17 @@
+"Updater"
+{
+	"Files"
+	{
+		"Plugin" "Path_SM/plugins/example.smx"
+		"Source" "Path_SM/scripting/example.sp"
+	}
+	"Information"
+	{
+		"Version"
+		{
+			"Latest" "0.0"
+		}
+		"Notes" "Version 0.0 is out!"
+		"Notes" "Check out the latest changes @ https://github.com/servadestroya/sample_plugin_autoupdated/releases"
+	}
+}
