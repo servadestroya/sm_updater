@@ -9,9 +9,9 @@
 	{
 		"Version"
 		{
-			"Latest" "3.0-1-ga656e6c.30"
+			"Latest" "5.0.31"
 		}
-		"Notes" "Version 3.0-1-ga656e6c.30 is out!"
+		"Notes" "Version 5.0.31 is out!"
 		"Notes" "Go to https://github.com/servadestroya/sample_plugin_autoupdated to see the changes"
 	}
 }
