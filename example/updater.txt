@@ -1,17 +1,17 @@
 "Updater"
 {
-	"Files"
-	{
-		"Plugin" "Path_SM/plugins/example.smx"
-		"Source" "Path_SM/scripting/example.sp"
-	}
 	"Information"
 	{
 		"Version"
 		{
-			"Latest" "0.0"
+			"Latest" "3.0-7-g82c5a97.36"
 		}
-		"Notes" "Version 0.0 is out!"
-		"Notes" "Check out the latest changes @ https://github.com/servadestroya/sample_plugin_autoupdated/releases"
+		"Notes" "Version 3.0-7-g82c5a97.36 is out!"
+		"Notes" "Go to https://github.com/servadestroya/sample_plugin_autoupdated to see the changes"
+	}
+	"Files"
+	{
+		"Plugin" "Path_SM/plugins/example.smx"
+		"Source" "Path_SM/scripting/example.sp"
 	}
 }
