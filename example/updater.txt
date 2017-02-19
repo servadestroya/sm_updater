@@ -4,9 +4,9 @@
 	{
 		"Version"
 		{
-			"Latest" "5.1.32"
+			"Latest" "5.2.33"
 		}
-		"Notes" "Version 5.1.32 is out!"
+		"Notes" "Version 5.2.33 is out!"
 		"Notes" "Go to https://github.com/servadestroya/sample_plugin_autoupdated to see the changes"
 	}
 	"Files"
