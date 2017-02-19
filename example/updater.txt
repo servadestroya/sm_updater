@@ -1,17 +1,17 @@
 "Updater"
 {
-	"Files"
-	{
-		"Plugin" "Path_SM/plugins/example.smx"
-		"Source" "Path_SM/scripting/example.sp"
-	}
 	"Information"
 	{
 		"Version"
 		{
-			"Latest" "5.0.31"
+			"Latest" "5.1.32"
 		}
-		"Notes" "Version 5.0.31 is out!"
+		"Notes" "Version 5.1.32 is out!"
 		"Notes" "Go to https://github.com/servadestroya/sample_plugin_autoupdated to see the changes"
+	}
+	"Files"
+	{
+		"Plugin" "Path_SM/plugins/example.smx"
+		"Source" "Path_SM/scripting/example.sp"
 	}
 }
